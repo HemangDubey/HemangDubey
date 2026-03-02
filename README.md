@@ -229,14 +229,6 @@ hackathons:
 <div align="center">
 
 <a href="https://github.com/HemangDubey">
-<img height="180em" src="https://github-readme-stats-hemangdubeys-projects.vercel.app/api?username=HemangDubey&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=8B5CF6&text_color=c9d1d9&ring_color=8B5CF6&count_private=true&include_all_commits=true" alt="Hemang's GitHub Stats"/>
-&nbsp;&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats-hemangdubeys-projects.vercel.app/api/top-langs/?username=HemangDubey&layout=compact&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/HemangDubey">
 <img src="https://streak-stats.demolab.com/?user=HemangDubey&hide_border=true&background=0d1117&stroke=1a1b27&ring=00D4FF&fire=8B5CF6&currStreakLabel=00D4FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
 </a>
 
